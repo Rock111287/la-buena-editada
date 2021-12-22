@@ -1,15 +1,11 @@
 # la-buena-editada
 #EXTM3U
 
-#EXTINF:-1, :: REGIO CHANNEL :: (EVENTOS)
-http://regioplay.xyz/php/SR_REGIO_411112_/th.php?channel=srregio&f.m3u8
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", MAGIC KIDS
 https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", ENERGEEK
-https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w959585101.m3u8
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", EL CHAVO TV
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", DREIKO TV
+#EXTINF:-1  gro-title="Lista TV" tvg-id="Lista TV", DREIKO TV
 http://regioplay.xyz/php/SR_REGIO_411112_/dreiko.php?f=.m3u8
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", KANADE TV
 https://kanadetvlatino-usct.streaming.media.azure.net/66afd58d-114f-48d5-bc00-aa6cd5203912/80e7baff-9e17-4bad-8058-93e7160fe85a.ism/manifest(format=m3u8-aapl)
