@@ -3,20 +3,12 @@
 
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", MAGIC KIDS
 https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", EL CHAVO TV
-https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 #EXTINF:-1  gro-title="Lista TV" tvg-id="Lista TV", DREIKO TV
 http://regioplay.xyz/php/SR_REGIO_411112_/dreiko.php?f=.m3u8
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", KANADE TV
 https://kanadetvlatino-usct.streaming.media.azure.net/66afd58d-114f-48d5-bc00-aa6cd5203912/80e7baff-9e17-4bad-8058-93e7160fe85a.ism/manifest(format=m3u8-aapl)
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", MULTIMEDIOS MTY
-http://regioplay.xyz/php/SR_REGIO_411112_/multimedios.php?f=.m3u8
-#EXTINF:-1   group-title="Lista TV" tvg-id="Lista TV", WOW TV
-https://regioplay.xyz/php/SR_REGIO_411112_/wowtv.php
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", NET TV
-http://regioplay.xyz/php/SR_REGIO_411112_/nettv.php?f=.m3u8
 #EXTINF:-1  tvg-id="Lista TV", Star Channel
 https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", LA 2
@@ -33,14 +25,8 @@ https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", ADN40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", CANAL 26 AGUASCALIENTES
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", LATINOS TV
 https://cloud2.streaminglivehd.com:1936/8044/8044/.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", VIDEOROLA
-https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", CANAL 26 AGUASCALIENTES
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", ANIMAX
