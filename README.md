@@ -15,8 +15,8 @@ http://regioplay.xyz/php/SR_REGIO_101022_/dreiko.php?f=.m3u8
 https://kanadetvlatino-usct.streaming.media.azure.net/66afd58d-114f-48d5-bc00-aa6cd5203912/80e7baff-9e17-4bad-8058-93e7160fe85a.ism/manifest(format=m3u8-aapl)
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
-#EXTINF;-1,South Park 24H tvg-logo="https://static2.abc.es/media/play/2018/09/27/south-park-k3lF--620x349@abc.jpg"
-https://live69.vkuserlive.com/639906/live/tyBhhhhAfwQZjr06/playlist.m3u8
+#EXTINF:-1, los simpson 24/7
+https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CpcFGM4rRE-w9gb_Akwu5g28AGW1u5-AUYOw8TBvmytEN3fQ2AdeIz50I23ivC_o0PMPvPLwFjGOYimvree-CMynA0AjvQJSz5hTsHnfKhU5xXLzAcrlSYj6l3zoKKtHqzj4Af6snKedoTA9FpqyM8LdE6u3VoTOEW-dreyADMFhdPFyzIfBLgk3pZBwPMjWZmE14ihqrHJrqwwmMpV5PgiejMu4xS_-T-7UlqdLt2mcbfqSjmk1dpallK6zGPM4jiNwKdWCJcTh0H7USZh_xHi_OudSjEQ2DDTy1ms0XzbU4ts92JkGq_qzQY05BywoiCsOZzEc5aMjqmxM4WiAnV0jkOlIEBR1RaTLI0OIUd7ukAeYmS_vaQEezCx-tC7PnRS_WMP9D3oRCJznt5IV9YwoYPPBf2xPla5ojHRxjtyz7NFGKy_k_E9QBY1KybcUUnJMUIwiK-5ykHUHLiqGkZXXpcPCQdeqm3Lp9omKNM5eIWXYLR-O-BeBUz_JFaNU6jGcL_PrjCIHjFDDsVihXbW_8J3t5qSs85cy4XYU6VbCU0RhfAOjC4TCsXgPIGs_7rL52OIWcun2DOehCd1VWA7CNbaVIbK5iDi2HBKZiWTRlCvL8hGb0oU-zRDQAiBFQiCBCRkMF6lWK3uZH_XazQusmDR9jAboCFk4owFyl74OOgbi3VRn42VtyM9QpH-NDltC507lsk4hfkmtvBOMh4vZRhokPp6M6xxgcQ7mjkcTbTppnbJQfs6hLednzc3sB463P-n_Tz3zIobbH_1M1DQPGuRiBy4w4ok-ZEB1cab7NcM1ALs8Fh-guricI4MEsSwI9vVK5vvKq_k9q3cJcD-8KFOTEhRPe-l7zJg5pYKZ9m_WMw21RKuYGgz-L2HpODFmZEXFDEIgASoJZXUtd2VzdC0yMNwC.m3u8
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", MULTIMEDIOS MTY
 http://regioplay.xyz/php/SR_REGIO_101022_/multimedios.php?f=.m3u8
 #EXTINF:-1   group-title="Lista TV" tvg-id="Lista TV", WOW TV
