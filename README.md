@@ -25,8 +25,8 @@ https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CqQFTAF_HbICLElJbAUyj5PJVby
 #EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", MULTIMEDIOS MTY
 http://regioplay.xyz/php/SR_REGIO_101022_/multimedios.php?f=.m3u8
 #EXTINF:-1   group-title="Lista TV" tvg-id="Lista TV", WOW TV
-https://regioplay.xyz/php/SR_REGIO_101022_/wowtv.php
-#EXTINF:-1  group-title="Lista TV" tvg-id="Lista TV", NET TV
+h#EXTINF:-1  anime latino 
+https://video-weaver.lax03.hls.ttvnw.net/v1/playlist/CpQFSrlh06ZGiMfBXNmiHx0tEvPLnzQfY0sSJVuEu9skCvFY8h9qiSfUry9gdx354lfj5rOedIuDNguOtStUsm_zIxHqeem9U-ppTZLMi93FUtK-EZSJSCEPam6odx_8Q682eiuXaSkKCJ-Bl8Jz1MiGcHE3q451o2RgLLRlNvwHGgwE3knoIAtUSNHZUqlH01mBiqfbqqU6JxNQu1S0TXzL6v9ESXwBg_1Ov0AjJBZl6LJGeFE2-RAyhynXwgmOtrcKEpG-HZKVikMRrVrPJ_3BgOpAkR9XERjm1VGyEX7Lg-UE5Me_0SJS_-eC47dNFclyHibxAiHVfcJgGeO9QGu4fvQxyFV_UZvU-ItKc7a9Kxv9giAUeCv-PtEh06Z3TxcH3SBMPCjGpVU_4qS5Myr7sVZWOHwT5q7aMWMEJ1fUR9VIFctjHAqOgBqPj6XQtvnLcn5YZigS2ZBoDjp9znqIPL0ltyulRNvdwqREev-MclQnHuYRNCIZU8x1bQ6x2Njp64tS3qA3dsVPsQtODmX2UjiYAC9X4TXvsc_t4Hx0qEnL_gxO-Rhf2b-y5YxwA6gCKcXPYU3LYzUWrq8kam1yhMGAPFl_9OPVHrPGkfJ2E7UBVmof06omAzJ0fwLmJLBHekPvfjnap1H-5gS5YJbd8CsWiJX1E0i9qC-g89n5XyB23M0i4fvrBX6wx09maxnvO1CiXRmAnQTBX1Uz_8UDh56z2aLPLht-VPD05luZVqRat7KkYeTqx80fwqEPrnc4CXUYzITpeR_1AJGy3cYZbArb27tm0dFOcX1NWW9iwjk1Z8xxQYhw6MhCvV3rIyPlP9fVQSAKf925NeYJ48bpJU7iJv1AcDOXfp_llbasXUAD1M-BGgyA9D6Vg8GFBfPodE4gASoJdXMtZWFzdC0xMJMB.m3u8  
 http://regioplay.xyz/php/SR_REGIO_101022_/nettv.php?f=.m3u8
 #EXTINF:-1  tvg-id="Lista TV", Star Channel
 https://edge1.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/index.m3u8
@@ -42,10 +42,6 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", AZTECA 7.2
 https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", ADN40
-https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Lista TV", CANAL 26 AGUASCALIENTES
-http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", LATINOS TV
 https://cloud2.streaminglivehd.com:1936/8044/8044/.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Lista TV", VIDEOROLA
@@ -354,6 +350,5 @@ http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=221&p=3&k=srregio&f=.m3u8
 http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=223&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, VH1 HD
 http://regioplay.xyz/php/SR_REGIO_101022_/tpa.php?c=334&p=3&k=srregio&f=.m3u8  
-
 
 *
